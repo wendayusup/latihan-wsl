@@ -1,1 +1,2 @@
-Daftar komponen drone: Motor, ESC, Flight Controller
+Isi baru: Motor, ESC, PX4 Autopilot
+Tambahan: Battery 4S 1500mAh
